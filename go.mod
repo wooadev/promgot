@@ -1,4 +1,4 @@
-module github.com/wooadev/gopromtpt
+module github.com/wooadev/promgot
 
 go 1.12
 
