@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/manifoldco/promgot/screenbuf"
+	"github.com/wooadev/promgot/screenbuf"
 )
 
 func TestSelectTemplateRender(t *testing.T) {
